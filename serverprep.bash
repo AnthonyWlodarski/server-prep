@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Server configuration script to install lamps stack and any packages
+# Server configuration script to install lamp stack and any packages
 # Anthony Wlodarski anthony@get2know.me
 #
 yum clean all
